@@ -3,8 +3,11 @@
 function App() {
   return (
     <div>
-      <SimpleComponent name="React" />
-      <SimpleComponent name="React 2" />
+      {/* <SimpleComponent name="React" /> */}
+      <HeaderComponent text="FCC: Front End Libraries - Project 1, Project Name" />
+      <SecondCounter />
+      <ToDoList />
+      <FooterComponent />
     </div>
   );
 }
