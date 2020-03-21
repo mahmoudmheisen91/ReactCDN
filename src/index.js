@@ -7,6 +7,12 @@ function App() {
       <HeaderComponent text="FCC: Front End Libraries - Project 1, Project Name" />
       <SecondCounter />
       <ToDoList />
+      {/* <ToDoList />
+      <ToDoList />
+      <ToDoList />
+      <ToDoList />
+      <ToDoList />
+      <ToDoList /> */}
       <FooterComponent />
     </div>
   );
