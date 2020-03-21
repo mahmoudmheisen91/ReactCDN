@@ -1,6 +1,6 @@
 class SimpleComponent extends React.Component {
   render() {
-    return <div>Hello, {this.props.name}</div>;
+    return <div className="myDiv">Hello, {this.props.name}</div>;
   }
 }
 
